@@ -1,2 +1,2 @@
-# polariodvoid.io
+# Adam Afilaka
 Personal Site for Adam
