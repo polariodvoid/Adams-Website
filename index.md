@@ -31,7 +31,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Alexandria, VA</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-
 text-teal"></i>a06afilaka@gmail.com</p>
-          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>973-234-6069</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+1-973-234-6069</p>
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
@@ -99,7 +99,7 @@ text-teal"></i>a06afilaka@gmail.com</p>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>University Of Maryland Baltimore County</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>June 2020</h6>
-          <p>Bachelors of Science in Information Systems and Certificate in Descion Making Support</p>
+          <p>Bachelors of Science in Information Systems and Certificate in Decision Making Support</p>
           <p> Projects include:<p>
           <p>Real or Not? Natural Language Processing With Diaster Tweets where with the help of a team made a Random Forest, Logistic Regression and Naive Bayes NLP classifier and implemented classifiers on a test set of posts on Twitter and was able to differentiate between a post
 pertaining to disaster and one that does not with an accuracy of 70%. Found <a href="https://drive.google.com/file/d/1Wr48cfMyd20QaTgS1fPYVZxFilsc8yBR/view?usp=sharing" target="_blank"> here.</a></p>
