@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -97,7 +97,6 @@ text-teal"></i>a06afilaka@gmail.com</p>
           <p> Certificate in Data Science </p>
           <p>  I just started the program, so projects will be added when completed! <p>
           <hr>
-        </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>University Of Maryland Baltimore County</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>June 2020</h6>
@@ -112,21 +111,10 @@ acquired information on actual hardware that would fit the budget.  Found <a hre
           <hr>
         </div>
         
-      </div>
-
-    <!-- End Right Column -->
-    </div>
-    
-  <!-- End Grid -->
-  </div>
   
-  <!-- End Page Container -->
-</div>
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
   <p>Find me on <a href="https://www.linkedin.com/in/adam-afilaka-22632712b/" target="_blank">LinkedIn.</a></p>
 </footer>
 
-</body>
-</html>
 
