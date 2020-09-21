@@ -109,7 +109,7 @@ wireless functional network, and additional security measures. Applied concepts 
 acquired information on actual hardware that would fit the budget.  Found <a href="https://docs.google.com/document/d/1IchJB4QlnsDK3Q7LMLrCeiBplhpeSshWuSn2GW5qDRw/edit?usp=sharing" target="_blank"> here.</a></p>
 <p>Electronic Medical Records System Development Life Cycle project where we developed an electronic medical records system integration, facing all 6 steps in the lifecycle development and designed an architecture, user interface and implementation with a team of 5 that could be used by hospitals worldwide to better treat patients. Found <a href="https://drive.google.com/drive/folders/1S89UtP3yKSrYKDEU72pmsdOFUODDL3pO?usp=sharing" target="_blank"> here.</a></p>
           <hr>
-        </div>
+   
         
   
 
